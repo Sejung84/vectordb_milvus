@@ -23,5 +23,9 @@
 3. Upload 2 im Docker
    ```
    docker-compose up -d
-   ```  
+   ```
+4. Check port
+   ```
+   docker port milvus-standalone 19530/tcp
+   ```
 
