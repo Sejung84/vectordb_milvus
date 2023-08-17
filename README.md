@@ -32,6 +32,8 @@
 
 <img width="1242" alt="image" src="https://github.com/Sejung84/vectordb_milvus/assets/141974482/c2081dd2-2ad8-4cc0-8036-99478a8c697d">
 
+5. Run this code 'vectordb_milvus.ipynb'
+
 - You can see your vectorDB in Attu
 
 ![image](https://github.com/Sejung84/vectordb_milvus/assets/141974482/ac0ed8f7-1b1a-4a9e-8ccf-69d15420fadc)
