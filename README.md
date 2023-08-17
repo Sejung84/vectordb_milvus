@@ -1,6 +1,6 @@
 # vectordb_milvus
 
-I use resnet50 model and satilite image for this project.
+I use 'resnet50' model and satilite image for this project.
 You have to prepare image files.
 
 
