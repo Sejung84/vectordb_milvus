@@ -11,14 +11,14 @@
 2. Add attu code in the YAML file
    ```
      attu:
-    container_name: attu
-    image: zilliz/attu:v2.2.6
-    environment:
-      MILVUS_URL: standalone:19530
-    ports:
-      - "8000:3000"
-    depends_on:
-      - "standalone"
+         container_name: attu
+         image: zilliz/attu:v2.2.6
+         environment:
+           MILVUS_URL: standalone:19530
+         ports:
+           - "8000:3000"
+         depends_on:
+           - "standalone"
    ```
 3. Upload 2 im Docker
    ```
