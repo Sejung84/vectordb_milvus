@@ -1,5 +1,9 @@
 # vectordb_milvus
 
+I use resnet50 model and satilite image for this project.
+You have to prepare image files.
+
+
 ## install Milvus & Attu in Docker
 - https://milvus.io/docs/install_standalone-docker.md
 - https://milvus.io/docs/attu_install-docker.md
