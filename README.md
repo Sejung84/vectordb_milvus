@@ -29,9 +29,11 @@
    docker port milvus-standalone 19530/tcp
    ```
 You can see your container 'milvus and attu'.
+
 <img width="1242" alt="image" src="https://github.com/Sejung84/vectordb_milvus/assets/141974482/c2081dd2-2ad8-4cc0-8036-99478a8c697d">
 
 You can see your vectorDB in Attu
+
 ![image](https://github.com/Sejung84/vectordb_milvus/assets/141974482/ac0ed8f7-1b1a-4a9e-8ccf-69d15420fadc)
 
 ![Untitled (2)](https://github.com/Sejung84/vectordb_milvus/assets/141974482/18d3233b-bd6f-4afd-9dfa-f2b0d04a7144)
